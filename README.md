@@ -59,6 +59,10 @@ streamlit run app/app.py
 - Built a Random Forest model achieving **86.35% accuracy** for churn prediction.
 - Developed an interactive Streamlit application for real-time predictions.
 
+## 🌐 Live Demo
+
+🔗 https://customer-segmentation-and-churn-prediction-kg4hmkdnecu4twskwyy.streamlit.app/
+
 ## 👩‍💻 Author
 
 **Atchaya Priya**  
